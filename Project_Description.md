@@ -1,10 +1,10 @@
 # Project Title
 
-**Will It Rain on My Parade? – A NASA-powered Weather Insight & Prediction App by Team Red Torque**
+**RT WEatherSense – A NASA-powered Weather Insight & Prediction App by Team Red Torque**
 
 ## What It Does
 
-“Will It Rain on My Parade?” is an interactive web application built using **Streamlit**. It analyzes real NASA Earth observation data to provide **rainfall probabilities, temperature trends, and satellite imagery** for any location in India.
+“”RT WEatherSense is an interactive web application built using **Streamlit**. It analyzes real NASA Earth observation data to provide **rainfall probabilities, temperature trends, and satellite imagery** for any location in India.
 
 **Key functionalities include:**
 
@@ -73,7 +73,7 @@
 
 ## Summary
 
-“Will It Rain on My Parade?” is a Streamlit-based weather analysis app by Team Red Torque that uses NASA satellite data (**TRMM, GLDAS, MODIS**) to provide rainfall probabilities, temperature trends, and satellite imagery for locations across India. Users can select a city or click on a map to get precise coordinates, view historical rainfall and temperature trends, and explore MODIS images from the past five years. The app turns complex NASA datasets into a simple, interactive dashboard accessible to both researchers and the general public.
+“RT WEatherSense” is a Streamlit-based weather analysis app by Team Red Torque that uses NASA satellite data (**TRMM, GLDAS, MODIS**) to provide rainfall probabilities, temperature trends, and satellite imagery for locations across India. Users can select a city or click on a map to get precise coordinates, view historical rainfall and temperature trends, and explore MODIS images from the past five years. The app turns complex NASA datasets into a simple, interactive dashboard accessible to both researchers and the general public.
 
 The app processes large NASA NetCDF datasets using Python libraries like **Pandas, Xarray, Matplotlib, and Folium**. It combines spatial interaction (map selection) with temporal analysis (historical trends) in one user-friendly interface. MODIS imagery is fetched in real-time from NASA’s WMS servers, creating a visually engaging and scientifically accurate experience.
 
