@@ -29,4 +29,5 @@ We aim to create practical, accessible applications that translate Earth observa
 
 ## Team Details (on NASA Space App Challenge Website):
 
-![Team Image]([https://drive.google.com/uc?export=view&id=1XDMAzllKAjEDeBIduTT3AFQnjb66qA23](https://drive.google.com/uc?export=view&id=1XDMAzllKAjEDeBIduTT3AFQnjb66qA23))
+![Team Image](https://drive.google.com/uc?export=view&id=1XDMAzllKAjEDeBIduTT3AFQnjb66qA23)
+
