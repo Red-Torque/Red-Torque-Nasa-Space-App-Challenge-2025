@@ -1,6 +1,6 @@
 # Project Title
 
-**RT WEatherSense – A NASA-powered Weather Insight & Prediction App by Team Red Torque**
+**RT WeatherSense – A NASA-powered Weather Insight & Prediction App by Team Red Torque**
 
 ## What It Does
 
